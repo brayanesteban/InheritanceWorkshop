@@ -14,9 +14,9 @@
 
         public override string ToString()
         {
-            return $"{Name}\t" +
-                $"\t=> Area.....:\t = {GetArea():F5}" +
-                $"\t  Perimeter:\t {GetPerimeter():F5}";
+            return $"{Name,-15}" +
+                $"\t=> Area.....:\t = {GetArea(),-12:F5}" +
+                $"\t  Perimeter:\t {GetPerimeter(),-12:F5}";
         }
   
     }
