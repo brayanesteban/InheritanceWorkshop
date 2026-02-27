@@ -1,1 +1,4 @@
-<Solution />
+<Solution>
+  <Project Path="FrontendInheritance/FrontendInheritance.csproj" Id="29df90e2-6ddc-4d18-8684-9169becd9100" />
+  <Project Path="GeometricFigure/Geometry.csproj" Id="a7118c56-9de6-4e2d-9989-83b085faca0f" />
+</Solution>
